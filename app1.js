@@ -1,1 +1,1 @@
-prompt("Hola mundo");
+print("Hola mundo");
